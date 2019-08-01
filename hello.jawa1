@@ -1,17 +1,16 @@
 
-hello world  #master
+hello world  #branch1
 
 {
 
-capital info solutions  #master
-
+capital info solutions  #branch1
 
 course details 
 
-devops  #master
+devops 
 
 jenkins
 
-}
+}    #branch1
 
 
